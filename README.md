@@ -1,5 +1,5 @@
 ### Hi there 👋
-## GitHub Stats for public repositories
+## GitHub Stats For Public Repositories
 ![Markus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marstar03&show_icons=true&theme=cobalt)
 
 <!--
