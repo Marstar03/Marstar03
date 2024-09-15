@@ -1,7 +1,8 @@
 ### Hi there 👋
+<!--
 ## GitHub Stats For Public Repositories
 ![Markus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marstar03&show_icons=true&theme=cobalt)
-
+-->
 <!--
 **Marstar03/Marstar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
